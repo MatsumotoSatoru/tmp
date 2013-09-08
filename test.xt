@@ -4,6 +4,10 @@ third line
 forth line
 kiniro
 add line when BR3
+
 この文章は後でpushします。
 つまり、一度cloneしてローカルで作業下はいいものの、
 自分がpushする以前に他の人がpushして変更をかえていた場合
+先んじてpushするファイル
+
+合体!!
